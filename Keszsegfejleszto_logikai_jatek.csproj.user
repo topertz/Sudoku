@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Mark\Desktop\Keszsegfejleszto_logikai_jatek\Keszsegfejleszto_logikai_jatek\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="BoardInitialization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BoardVisualizer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataWrite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GameRules.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainEvents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Restart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SetData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sudoku.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SymbolHandler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
