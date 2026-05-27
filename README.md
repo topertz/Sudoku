@@ -4,3 +4,5 @@ for a possible good move in exchange for a penalty point. At the end, the game e
 ranks the player based on the number of correct moves taken and the elapsed playing time.
 
 ![Sudoku game](image/sudoku.jpg)
+
+![Sudoku game](image/classic_sudoku_9x9.png)
